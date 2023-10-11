@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=26A641&center=true&vCenter=true&random=false&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Gayan+Sachintha" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=39D353&center=true&vCenter=true&random=false&width=800&height=75&lines=Hi+%F0%9F%91%8B%2C+I'm+Gayan+Sachintha" alt="Typing SVG" /></a>
 <h3 align="center">A passionate Software developer from Sri Lanka</h3>
 <img alt="codnig" src="https://miro.medium.com/max/1280/0*-u0b7K0Q6zfBcQqT.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayan-sachintha&label=Profile%20views&color=0e75b6&style=flat" alt="gayan-sachintha" /> </p>
