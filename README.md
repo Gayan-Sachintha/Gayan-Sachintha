@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gayan Sachintha</h1>
-<h3 align="center">A passionate Software developer from Sri Lanka</h3>
+<h3 align="center">Welcome To My Github Profile</h3>
 <img alt="codnig" src="https://miro.medium.com/max/1280/0*-u0b7K0Q6zfBcQqT.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayan-sachintha&label=Profile%20views&color=0e75b6&style=flat" alt="gayan-sachintha" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayan-sachintha" alt="gayan-sachintha" /></a> </p>
