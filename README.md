@@ -56,5 +56,6 @@
 
 ![FL Studio](https://img.shields.io/badge/-FL_Studio-EE4D2E?style=for-the-badge&logo=fl-studio&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayan-sachintha&show_icons=true&locale=en&layout=compact" alt="gayan-sachintha" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gayan-sachintha&show_icons=true&locale=en" alt="gayan-sachintha" /></p>
+![Gayan Sachintha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gayan-sachintha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=BD93F9&title_color=F8D866&text_color=C9D1D9)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayan-sachintha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&icon_color=BD93F9&title_color=F8D866&text_color=C9D1D9)
