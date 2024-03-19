@@ -2,9 +2,28 @@
 <h3 align="center">Welcome To My Github Profile</h3>
 <img alt="codnig" src="https://miro.medium.com/max/1280/0*-u0b7K0Q6zfBcQqT.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayan-sachintha&label=Profile%20views&color=0e75b6&style=flat" alt="gayan-sachintha" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayan-sachintha" alt="gayan-sachintha" /></a> </p>
-- 📫 How to reach me 'gayansachintha2000@gmail.com'
-## Connect with me
+
+<h3 align="center">🏆 My GitHub Achievements 🏆</h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=gayan-sachintha&theme=algolia&column=7&no-frame=true&no-bg=true" alt="Gayan Sachintha's GitHub Trophies"/>
+  </a>
+</p>
+
+<p align="center">
+  Explore the trophies above by clicking on them! 🌟
+</p>
+>
+
+
+📬 Get In Touch!
+<p align="left">
+<a href="mailto:gayansachintha2000@gmail.com?subject=Hello%20Gayan,%20From%20GitHub">
+<img src="https://img.shields.io/badge/Email-Gayan%20Sachintha-blue.svg?style=flat-square&logo=gmail">
+</a>
+</p>
+
+Connect with me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gayan.gamage.779/)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/gayansachintha)
@@ -12,9 +31,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayan-sachintha-52321b214/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@__b.o.l.e.__)
 
-## Languages and Tools
+Languages and Tools
 
-### Coding
+Coding
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,12 +52,12 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### Database
+Database
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Design
+Design
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
@@ -52,7 +71,7 @@
 ![Maya](https://img.shields.io/badge/-Maya-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Sketch](https://img.shields.io/badge/-Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black)
 
-### Music Making
+Music Making
 
 ![FL Studio](https://img.shields.io/badge/-FL_Studio-EE4D2E?style=for-the-badge&logo=fl-studio&logoColor=white)
 
