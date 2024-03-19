@@ -1,9 +1,40 @@
 <h1 align="center">Hi 👋, I'm Gayan Sachintha</h1>
 <h3 align="center">Welcome To My Github Profile</h3>
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/gayan-sachintha">
+          <img src="https://badges.pufler.dev/visits/gayan-sachintha/gayan-sachintha?style=flat-square&color=blue&logo=github">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/gayan-sachintha">
+          <img src="https://badges.pufler.dev/years/gayan-sachintha?style=flat-square&color=success&logo=github">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/gayan-sachintha?tab=repositories">
+          <img src="https://badges.pufler.dev/repos/gayan-sachintha?style=flat-square&color=important&logo=github">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/gayan-sachintha">
+          <img src="https://badges.pufler.dev/commits/monthly/gayan-sachintha?style=flat-square&color=yellowgreen&logo=github">
+        </a>
+      </td>
+      <td align="center">
+        <img src="https://komarev.com/ghpvc/?username=gayan-sachintha&label=Profile%20views&color=0e75b6&style=flat" alt="gayan-sachintha" />
+      </td>
+    </tr>
+  </table>
+</p>
+
 <img alt="codnig" src="https://miro.medium.com/max/1280/0*-u0b7K0Q6zfBcQqT.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gayan-sachintha&label=Profile%20views&color=0e75b6&style=flat" alt="gayan-sachintha" /> </p>
 
 <h3 align="center">🏆 My GitHub Achievements 🏆</h3>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=gayan-sachintha&theme=algolia&column=7&no-frame=true&no-bg=true" alt="Gayan Sachintha's GitHub Trophies"/>
@@ -13,15 +44,12 @@
 <p align="center">
   Explore the trophies above by clicking on them! 🌟
 </p>
->
+
 
 
 📬 Get In Touch!
-<p align="left">
-<a href="mailto:gayansachintha2000@gmail.com?subject=Hello%20Gayan,%20From%20GitHub">
-<img src="https://img.shields.io/badge/Email-Gayan%20Sachintha-blue.svg?style=flat-square&logo=gmail">
-</a>
-</p>
+
+[![Email](https://img.shields.io/badge/Email-gayansachintha2000%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayansachintha2000@gmail.com?subject=Hello%20Gayan,%20From%20GitHub)
 
 Connect with me
 
