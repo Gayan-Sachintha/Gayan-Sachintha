@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gayan Sachintha</h1>
-<h3 align="center">Welcome To My Github Profile</h3>
+<h3 align="center">Welcome To My GitHub Profile</h3>
 
 <p align="center">
   <table align="center">
@@ -31,7 +31,9 @@
   </table>
 </p>
 
-<img alt="codnig" src="https://miro.medium.com/max/1280/0*-u0b7K0Q6zfBcQqT.gif">
+<p align="center">
+  <img alt="coding" src="https://miro.medium.com/max/1280/0*-u0b7K0Q6zfBcQqT.gif">
+</p>
 
 <h3 align="center">🏆 My GitHub Achievements 🏆</h3>
 
@@ -45,65 +47,85 @@
   Explore the trophies above by clicking on them! 🌟
 </p>
 
+<h3 align="center">📬 Get In Touch!</h3>
 
+<p align="center">
+  <a href="mailto:gayansachintha2000@gmail.com?subject=Hello%20Gayan,%20From%20GitHub">
+    <img src="https://img.shields.io/badge/Email-gayansachintha2000%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-📬 Get In Touch!
+<h3 align="center">Connect with me</h3>
 
-[![Email](https://img.shields.io/badge/Email-gayansachintha2000%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayansachintha2000@gmail.com?subject=Hello%20Gayan,%20From%20GitHub)
+<p align="center">
+  <a href="https://www.facebook.com/gayan.gamage.779/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+  <a href="https://www.behance.net/gayansachintha">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/__m.r._b.o.l.e__/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/gayan-sachintha-52321b214/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.tiktok.com/@__b.o.l.e.__">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+  </a>
+</p>
 
-Connect with me
+<h3 align="center">Languages and Tools</h3>
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gayan.gamage.779/)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/gayansachintha)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__m.r._b.o.l.e__/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayan-sachintha-52321b214/)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@__b.o.l.e.__)
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
+  <img src="https://img.shields.io/badge/-Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white">
+  <img src="https://img.shields.io/badge/-NextUI-black?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+</p>
 
-Languages and Tools
+<h3 align="center">Database</h3>
 
-Coding
+<p align="center">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+</p>
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Ant Design](https://img.shields.io/badge/-Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![NextUI](https://img.shields.io/badge/-NextUI-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<h3 align="center">Design</h3>
 
-Database
+<p align="center">
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white">
+  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
+  <img src="https://img.shields.io/badge/-Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
+  <img src="https://img.shields.io/badge/-After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
+  <img src="https://img.shields.io/badge/-Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
+  <img src="https://img.shields.io/badge/-Blender-EA7600?style=for-the-badge&logo=blender&logoColor=white">
+  <img src="https://img.shields.io/badge/-3ds_Max-0696D7?style=for-the-badge&logo=autodesk&logoColor=white">
+  <img src="https://img.shields.io/badge/-Maya-0696D7?style=for-the-badge&logo=autodesk&logoColor=white">
+  <img src="https://img.shields.io/badge/-Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black">
+</p>
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<h3 align="center">Music Making</h3>
 
-Design
+<p align="center">
+  <img src="https://img.shields.io/badge/-FL_Studio-EE4D2E?style=for-the-badge&logo=fl-studio&logoColor=white">
+</p>
 
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![After Effects](https://img.shields.io/badge/-After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
-![Blender](https://img.shields.io/badge/-Blender-EA7600?style=for-the-badge&logo=blender&logoColor=white)
-![3ds Max](https://img.shields.io/badge/-3ds_Max-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
-![Maya](https://img.shields.io/badge/-Maya-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
-![Sketch](https://img.shields.io/badge/-Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black)
-
-Music Making
-
-![FL Studio](https://img.shields.io/badge/-FL_Studio-EE4D2E?style=for-the-badge&logo=fl-studio&logoColor=white)
-
-<table>
+<table align="center">
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=gayan-sachintha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=BD93F9&title_color=F8D866&text_color=C9D1D9"/></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayan-sachintha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&icon_color=BD93F9&title_color=F8D866&text_color=C9D1D9"/></td>
